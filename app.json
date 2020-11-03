@@ -5,7 +5,7 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068xxx"        
+            "value": "70e988c0-1c35-11eb-adc1-0242ac120002"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/kinto",
+    "repository": "https://https://github.com/aoeg/hero-kinto",
     "stack": "container"
 }
